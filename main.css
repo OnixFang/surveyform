@@ -18,11 +18,15 @@ body {
 }
 
 .input-field input::placeholder {
-  color: rgb(112, 172, 147);
+  color: rgb(72, 136, 107);
 }
 
 .form-header {
   margin-top: 0;
   font-size: 1.2em;
   font-weight: bold;
+}
+
+label {
+  color: black;
 }
